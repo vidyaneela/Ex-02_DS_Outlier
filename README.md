@@ -82,5 +82,5 @@ df2_new
 ![](./07.jpg)
 
 
-RESULT:
+## RESULT:
 The Outliers are detected and removed from the Dataset.
